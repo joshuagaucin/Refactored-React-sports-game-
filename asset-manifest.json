@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Refactored-React-sports-game-/static/css/main.6e74709c.chunk.css",
+    "main.js": "/Refactored-React-sports-game-/static/js/main.3962a059.chunk.js",
+    "main.js.map": "/Refactored-React-sports-game-/static/js/main.3962a059.chunk.js.map",
+    "runtime-main.js": "/Refactored-React-sports-game-/static/js/runtime-main.1c9ba623.js",
+    "runtime-main.js.map": "/Refactored-React-sports-game-/static/js/runtime-main.1c9ba623.js.map",
+    "static/js/2.22496f4e.chunk.js": "/Refactored-React-sports-game-/static/js/2.22496f4e.chunk.js",
+    "static/js/2.22496f4e.chunk.js.map": "/Refactored-React-sports-game-/static/js/2.22496f4e.chunk.js.map",
+    "index.html": "/Refactored-React-sports-game-/index.html",
+    "precache-manifest.c7f71f28fee54154f181a64880a6cd1c.js": "/Refactored-React-sports-game-/precache-manifest.c7f71f28fee54154f181a64880a6cd1c.js",
+    "service-worker.js": "/Refactored-React-sports-game-/service-worker.js",
+    "static/css/main.6e74709c.chunk.css.map": "/Refactored-React-sports-game-/static/css/main.6e74709c.chunk.css.map",
+    "static/js/2.22496f4e.chunk.js.LICENSE.txt": "/Refactored-React-sports-game-/static/js/2.22496f4e.chunk.js.LICENSE.txt",
+    "static/media/Bounce.mp3": "/Refactored-React-sports-game-/static/media/Bounce.87a0d837.mp3",
+    "static/media/Swish.mp3": "/Refactored-React-sports-game-/static/media/Swish.6bc36809.mp3",
+    "static/media/ducks.jpg": "/Refactored-React-sports-game-/static/media/ducks.b57431db.jpg",
+    "static/media/fox.jpg": "/Refactored-React-sports-game-/static/media/fox.e31806dd.jpg",
+    "static/media/geese.jpg": "/Refactored-React-sports-game-/static/media/geese.afb1c94d.jpg",
+    "static/media/wolf.jpg": "/Refactored-React-sports-game-/static/media/wolf.4155ab96.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c9ba623.js",
+    "static/js/2.22496f4e.chunk.js",
+    "static/css/main.6e74709c.chunk.css",
+    "static/js/main.3962a059.chunk.js"
+  ]
+}
